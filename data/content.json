@@ -1,61 +1,15 @@
 {
   "profile": {
-    "summary": "Software Engineer specializing in Python, Google Cloud, and Back-End Development.",
+    "summary": "Work in Progress",
     "technologies": [
-      "Python", "Google Cloud"
     ]
   },
   "timeline": [
-    {
-      "title": "Bachelor's Degree in Computer Science Engineering",
-      "place": "Universitat Pompeu Fabra, Barcelona (Spain)",
-      "year": "September 2018 - June 2023"
-    },
-    {
-      "title": "Anti-Piracy Department (Internship)",
-      "place": "Penguin Random House, Barcelona (Spain)",
-      "year": "January 2023 - May 2023"
-    },
-    {
-      "title": "Software Engineer",
-      "place": "Valeo R&D, Prague (Czech Republic)",
-      "year": "November 2023 - Present"
-    }
   ],
   "projects": {
     "valeo": [
-      {
-        "title": "Open Road: Vehicle 2 Cloud",
-        "description": "Processed real-time GPS data, corrected GPS signal loss, and integrated OpenStreetMaps metadata to meet EuroNCAP standards.",
-        "technologies": ["Python", "Google Cloud", "OpenStreetMaps"]
-      },
-      {
-        "title": "Neura-Line",
-        "description": "Developed a Computer Vision system for real-time road lane segmentation and classification.",
-        "technologies": ["Python", "OpenCV", "Deep Learning"]
-      },
-      {
-        "title": "Open Road API",
-        "description": "Designed a public API to provide real-time access to processed GPS data.",
-        "technologies": ["Flask", "FastAPI", "Google Cloud"]
-      }
     ],
     "personal": [
-      {
-        "title": "Project 1",
-        "description": "Description for project 1.",
-        "technologies": ["Tech1", "Tech2"]
-      },
-      {
-        "title": "Project 2",
-        "description": "Description for project 2.",
-        "technologies": ["Tech3", "Tech4"]
-      },
-      {
-        "title": "Project 3",
-        "description": "Description for project 3.",
-        "technologies": ["Tech5", "Tech6"]
-      }
     ]
   }
 }
