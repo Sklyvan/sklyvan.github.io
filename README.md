@@ -22,11 +22,11 @@ The project showcases various projects and work experiences using a visually app
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Sklyvan/sklyvan.github.io
 ```
 2. Navigate to the project directory:
 ```bash
-cd your-repo-name
+cd sklyvan.github.io/
 ```
 3. Install the dependencies:
 ```bash
